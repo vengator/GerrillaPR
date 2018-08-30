@@ -1,2 +1,2 @@
 # Here goes our Team Name
-Developers to make some serious apps
+We are developers starting to make some serious apps
